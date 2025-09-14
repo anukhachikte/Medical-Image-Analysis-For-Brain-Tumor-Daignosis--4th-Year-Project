@@ -1,0 +1,2 @@
+# Medical-Image-Analysis-For-Brain-Tumor-Daignosis--4th-Year-Project
+Deep learning models like CNN, VGG16, Inception, and MobileNet are used in brain tumor diagnosis to automatically extract features from MRI images. CNN is great for detecting tumors, VGG16 offers high accuracy, Inception captures complex features efficiently, and MobileNet is lightweight for faster processing,These models achieve accuracy above 95%
